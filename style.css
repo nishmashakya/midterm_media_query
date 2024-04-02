@@ -101,6 +101,7 @@ p {
 .imageDiv{
     position:relative;
     text-align: center;
+    max-width: 100%;
 }
 
 
@@ -239,6 +240,12 @@ p {
 }
 
 
+.pdf {
+	width: 100%;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+}
 /*-----------------------------------------------------------------------------------*/
 
 
